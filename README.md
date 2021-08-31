@@ -3,8 +3,6 @@ For my CGRA151 (computer graphics) course, I chose to recreate the classic game 
 
 I wrote all of the code from scratch and ran it on Processing. Received A+ for this project😎
 
-<br>
-
 **Why Space Invaders?**
 
 It's awesome. 
