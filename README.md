@@ -10,5 +10,5 @@ It's awesome.
 As a kid, I had a family friend who had the actual space invaders table. I'd spent hours playing and I always thought it'd be such an awesome game to code (it was definitely fun to test!).
 
 
-
-Note: The directory SpaceShooterV7 contanis the final, completed code.
+<br><br>
+**Note:** The directory SpaceShooterV7 contains the final, completed code if you're keen to have cheeky play of the game!
